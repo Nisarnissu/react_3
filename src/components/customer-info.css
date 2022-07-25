@@ -1,0 +1,19 @@
+.container {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.customer-info__label {
+    font-weight: bold;
+    padding-right: 5px;
+}
+.customer-info__appointment{
+    padding: 30px;
+}
+.customer-info__email{
+    padding: 30px;
+}
+.customer-info__phone{
+    padding: 30px;
+    
+}
